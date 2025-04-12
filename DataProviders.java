@@ -3,6 +3,8 @@ package utilities;
 import java.io.IOException;
 import org.testng.annotations.DataProvider;
 
+//this class is used to get data dat afrom excel sheet and place in 2D array so that the data can be directly fetced using dataProvider annotation test method
+
 public class DataProviders {
 
     // DataProvider 1
